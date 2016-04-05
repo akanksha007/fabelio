@@ -13,7 +13,10 @@ order of positon
 4. rake db:migrate
 5. rails s
 
-<a href="https://heroku.com/deploy">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
+## Deployed on heroku
+1. To add image and view slider 
+..* https://evening-peak-41531.herokuapp.com
+..* Enter any valid url and position, position can be any url from 10 onwards.
+..* You will redirected to https://evening-peak-41531.herokuapp.com/users
+..* Scroll to end webpage and click on Add Image to enter more image
 
