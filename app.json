@@ -1,0 +1,6 @@
+{
+  "name": "Fabelio Image",
+  "description": "Rails app",
+  "repository": "https://github.com/heroku/node-js-sample",
+  "keywords": ["rails", "RoR"]
+}
