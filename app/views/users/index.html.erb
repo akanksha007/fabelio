@@ -2,7 +2,7 @@
 <div id="slider">
 <figure>
 <% @users.each do |user| %>
-	<%=image_tag(user.url,:size => "260x180") %>
+	<%=image_tag(user.url,:alt => "") %>
 <% end %>	
 </figure>
 </div>
